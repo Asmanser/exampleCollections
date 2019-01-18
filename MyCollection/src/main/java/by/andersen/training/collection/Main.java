@@ -13,11 +13,15 @@ public class Main {
         myClasses.add(new MyClass(7));
         myClasses.add(new MyClass(2));
         System.out.println(myClasses);
-        myClasses.sort(new Comparator<MyClass>() {
+        /*myClasses.sort(new Comparator<MyClass>() {
             @Override
             public int compare(MyClass o1, MyClass o2) {
                 return o1.getA() - o2.getA();
             }
+        });*/
+        myClasses.replaceAll(myClass -> {
+            myClass.a *= myClass.a;
+            return myClass;
         });
         System.out.println(myClasses);
     }

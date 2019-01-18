@@ -1,6 +1,7 @@
 package main.java.by.andersen.training.collection;
 
 import java.util.*;
+import java.util.function.UnaryOperator;
 
 public class MyCollection<T> implements List<T> {
 
@@ -375,6 +376,13 @@ public class MyCollection<T> implements List<T> {
         }
         quickSort(start, current , c);
         quickSort(current + 1, end , c);
+    }
+
+    @Override
+    public void replaceAll(UnaryOperator<T> operator) {
+        for(Node<T> item = first; item != null; item = item.next) {
+            item.value = operator.apply(item.value);
+        }
     }
 
     @Override

@@ -396,4 +396,19 @@ public class TestMyCollection {
         Assert.assertArrayEquals(array,this.myFilledList.toArray());
     }
 
+    @Test
+    public void checkFunctionReplaceAll() {
+        myFilledList.replaceAll(myClass -> {
+            myClass.a *= myClass.a;
+            return myClass;
+        });
+        Math.pow(myClass1.a,2);
+        Math.pow(myClass2.a,2);
+        Math.pow(myClass3.a,2);
+        Math.pow(myClass4.a,2);
+        Math.pow(myClass5.a,2);
+        MyClass[] array = {myClass1,myClass2,myClass3,myClass4,myClass5};
+        Assert.assertArrayEquals(array,this.myFilledList.toArray());
+    }
+
 }

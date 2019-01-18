@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea6fec39-e627-49aa-9d3f-3c10c5cc1318" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/andersen/training/collection/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/andersen/training/collection/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/andersen/training/collection/MyCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/andersen/training/collection/MyCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestMyCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestMyCollection.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,7 +44,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1928" />
+          <entry key="JAVA" value="2044" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -60,11 +60,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/by/andersen/training/collection/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state>
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
               <folding>
                 <element signature="e#809#810#0" expanded="true" />
                 <element signature="e#843#844#0" expanded="true" />
@@ -83,7 +83,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/by/andersen/training/collection/MyCollection.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="384" column="9" lean-forward="true" selection-start-line="384" selection-start-column="9" selection-end-line="384" selection-end-column="9" />
+              <caret line="384" column="9" selection-start-line="384" selection-start-column="9" selection-end-line="384" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#552#553#0" expanded="true" />
@@ -93,46 +93,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/util/function/UnaryOperator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="40" column="30" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestMyCollection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="395" column="68" selection-start-line="395" selection-start-column="68" selection-end-line="395" selection-end-column="68" />
+            <state relative-caret-position="409">
+              <caret line="410" column="68" selection-start-line="410" selection-start-column="68" selection-end-line="410" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/util/LinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17561">
-              <caret line="1100" column="28" selection-start-line="1100" selection-start-column="8" selection-end-line="1100" selection-end-column="28" />
-              <folding>
-                <element signature="e#11209#11210#0" expanded="true" />
-                <element signature="e#11247#11248#0" expanded="true" />
-                <element signature="e#16099#16100#0" expanded="true" />
-                <element signature="e#16149#16150#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -167,9 +134,9 @@
         <option value="$PROJECT_DIR$/src/by/andersen/training/collection/Main.java" />
         <option value="$PROJECT_DIR$/src/main/test/TestMyCollection.java" />
         <option value="$PROJECT_DIR$/src/test/TestMyCollection.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestMyCollection.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/andersen/training/collection/MyCollection.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/andersen/training/collection/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestMyCollection.java" />
       </list>
     </option>
   </component>
@@ -281,7 +248,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547805125236" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547812260459" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -296,7 +263,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.TestMyCollection.checkFunctionReplaceAll">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.by.andersen.training.collection.Main" />
       <module name="MyCollection" />
@@ -324,7 +291,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMyCollection.lastIndexOfElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestMyCollection.checkFunctionReplaceAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyCollection" />
       <extension name="coverage">
         <pattern>
@@ -334,7 +301,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="test.java" />
       <option name="MAIN_CLASS_NAME" value="test.java.TestMyCollection" />
-      <option name="METHOD_NAME" value="lastIndexOfElement" />
+      <option name="METHOD_NAME" value="checkFunctionReplaceAll" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -373,19 +340,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.TestMyCollection.lastIndexOfElement" />
       <item itemvalue="JUnit.TestMyCollection.subList" />
       <item itemvalue="JUnit.TestMyCollection.sort" />
       <item itemvalue="JUnit.TestMyCollection" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.TestMyCollection.checkFunctionReplaceAll" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestMyCollection.checkFunctionReplaceAll" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.TestMyCollection" />
         <item itemvalue="JUnit.TestMyCollection.sort" />
         <item itemvalue="JUnit.TestMyCollection.subList" />
-        <item itemvalue="JUnit.TestMyCollection.lastIndexOfElement" />
       </list>
     </recent_temporary>
   </component>
@@ -401,7 +368,7 @@
       <updated>1547730911089</updated>
       <workItem from="1547730913210" duration="19935000" />
       <workItem from="1547800527063" duration="4423000" />
-      <workItem from="1547810931346" duration="290000" />
+      <workItem from="1547810931346" duration="1266000" />
     </task>
     <servers />
   </component>
@@ -438,10 +405,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24648000" />
+    <option name="totallyTimeSpent" value="25624000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.50577366" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" sideWeight="0.49422634" side_tool="true" weight="0.25340393" />
@@ -558,9 +526,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/util/function/UnaryOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="40" column="30" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17561">
+        <state relative-caret-position="111">
           <caret line="1100" column="28" selection-start-line="1100" selection-start-column="8" selection-end-line="1100" selection-end-column="28" />
           <folding>
             <element signature="e#11209#11210#0" expanded="true" />
@@ -571,27 +546,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestMyCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="395" column="68" selection-start-line="395" selection-start-column="68" selection-end-line="395" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/util/function/UnaryOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="40" column="30" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/by/andersen/training/collection/MyCollection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="384" column="9" lean-forward="true" selection-start-line="384" selection-start-column="9" selection-end-line="384" selection-end-column="9" />
+          <caret line="384" column="9" selection-start-line="384" selection-start-column="9" selection-end-line="384" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#552#553#0" expanded="true" />
@@ -602,8 +560,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/by/andersen/training/collection/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state>
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           <folding>
             <element signature="e#809#810#0" expanded="true" />
             <element signature="e#843#844#0" expanded="true" />
@@ -613,6 +571,16 @@
             <element signature="e#973#974#0" expanded="true" />
             <element signature="e#1027#1028#0" expanded="true" />
             <element signature="e#1077#1078#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestMyCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="410" column="68" selection-start-line="410" selection-start-column="68" selection-end-line="410" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
